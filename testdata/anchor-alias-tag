@@ -1,0 +1,2 @@
+a: &x Zm9v
+b: &y !!binary *x

@@ -1,0 +1,10 @@
+a:
+  - .Inf
+  - .inf
+  - .INF
+  - -.Inf
+  - -.inf
+  - -.INF
+  - +.Inf
+  - +.inf
+  - +.INF

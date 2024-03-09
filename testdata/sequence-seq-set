@@ -1,0 +1,6 @@
+seq: !!seq
+  - a
+  - b
+set: !!set
+  - a
+  - b

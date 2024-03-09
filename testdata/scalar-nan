@@ -1,0 +1,10 @@
+a:
+  - .NaN
+  - .nan
+  - .NAN
+  - -.NaN
+  - -.nan
+  - -.NAN
+  - +.NaN
+  - +.nan
+  - +.NAN

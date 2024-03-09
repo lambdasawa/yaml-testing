@@ -1,0 +1,8 @@
+x: !!pairs
+  - a: b
+  - a: c
+  - d: e
+y: !!omap
+  - a: b
+  - a: c
+  - d: e

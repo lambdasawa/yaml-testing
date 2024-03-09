@@ -1,0 +1,24 @@
+hai:
+  - y
+  - Y
+  - yes
+  - Yes
+  - YES
+  - true
+  - True
+  - TRUE
+  - on
+  - On
+  - ON
+iie:
+  - n
+  - N
+  - no
+  - No
+  - NO
+  - false
+  - False
+  - FALSE
+  - off
+  - Off
+  - OFF
